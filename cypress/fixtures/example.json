@@ -1,0 +1,69 @@
+{
+  "signUpObject":{
+    "url":"https://www.letsdeel.com/",
+    "loginId":"body > div.overflow > nav > div.nav-transparent.w-nav > div.nav-trans-cont > div.navigation-right > div.login-buttons > a.login-btn.w-nav-link",
+    "signUpId":"#root > div.login-container.container > div:nth-child(4) > div > p > a > button",
+    "asContractorId":"#root > div.signup-container.container > div:nth-child(3) > div.pr-6.mb-9.col-lg-6.col-md-6.col-sm-12.col-12 > button",
+    "submitid1":"#root > div.signup-container.container > div:nth-child(3) > div.pt-2.col-lg-12.col-md-12.col-sm-12.col-12 > button",
+    "signUpFormId": "#root > div.signup-container.container > div:nth-child(5) > div > div > div",
+    "inputName":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(2) > div > div.input > input",
+    "inputEmail":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(3) > div > div.input > input",
+    "inputPassword1":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(4) > div > div.input > input[type=password]",
+    "inputPassword2":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(5) > div > div.input > input[type=password]",
+    "typeOfClientDropdown":"#react-select-2-input",
+    "emailValidationInnerText":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(3) > div > p",
+    "password1ValidationInnerText":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(5) > div > p",
+    "password2ValidationInnerText":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > div.flex.flex-dir-col > div:nth-child(4) > div > p",
+    "submitSignUpFormId":"#root > div.signup-container.container > div:nth-child(5) > div > div > div > form > button",
+    "confirmationMessage":"#root > div > div > h2"
+  },
+  "userCredentials":{
+    "password":"r53jFJ3QpZnV2Li=",
+    "userEmail":"maramendez121199@gmail.com"
+  },
+  "contractTestIds": {
+    "url":"https://app.letsdeel.com/login",
+    "nameInputId":"#root > div.login-container.container > div:nth-child(4) > div > div > div > form > div.flex.flex-dir-col > div.input-container > div.input > input",
+    "passwordInputId":"#root > div.login-container.container > div:nth-child(4) > div > div > div > form > div.flex.flex-dir-col > div.mt-9 > div > div.input > input[type=password]",
+    "submitButton":"#root > div.login-container.container > div:nth-child(4) > div > div > div > form > button",
+    "menuBar":"#root > div > nav",
+    "contractId":"#root > div > nav > div > div.sidebar-inner-div > ul > div:nth-child(3) > a > li > div.flex.align-items-center.w-100",
+    "createContractId":"#root > div > div > div > div.m-n4.row > div > div > div > a > button", 
+    "createAFixedContractId":"#root > div > div > div > div.row > div:nth-child(1) > a > div",
+    "loremImpsum":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "inputContractName":"#root > div > div > div > form > div > div.input-container.mb-11 > div.input > input",
+    "inputScopeOfWork":"#root > div > div > div > form > div > div:nth-child(2) > div.textarea-container > textarea",
+    "generalInfoH1":"#root > div > div > div > h2",
+    "submitGeneralInfo":"#root > div > div > div > form > button"
+  },
+  "defineRatePartIds":{
+    "checkboxId":"#root > div > div > div > div.mb-10 > div > div:nth-child(3) > div",
+    "rateId":"#root > div > div > div > div:nth-child(3) > form > div.box.clearfix > div:nth-child(2) > div:nth-child(1) > div > div.input",
+    "nextButton":"#root > div > div > div > div:nth-child(3) > form > button",
+    "validationTextOnTheRate":"#root > div > div > div > div:nth-child(3) > form > div.box.clearfix > div:nth-child(2) > div:nth-child(1) > div > p",
+    "currencyId":"#root > div > div > div > div:nth-child(3) > form > div.box.clearfix > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(2) > div > div > div.select__value-container.select__value-container--has-value.css-1hwfws3 > div.css-1g6gooi > div > input",
+    "paymentPeriodId":"#root > div > div > div > div:nth-child(3) > form > div.box.clearfix > div:nth-child(3) > div > div > div:nth-child(2) > div > div > div.select__value-container.select__value-container--has-value.css-1hwfws3 > div.css-1g6gooi > div > input"
+  },
+  "defineDatesPart":{
+    "checkboxId":"#root > div > div > div > div.mb-10 > div > div:nth-child(5) > div",
+    "proDataId":"#root > div > div > div > div:nth-child(3) > div > div.text-left > form > div:nth-child(2) > div > div > div > div:nth-child(2)",
+    "nextButton":"#root > div > div > div > div:nth-child(3) > div > div.text-left > form > button",
+    "validationText":"#root > div > div > div > div:nth-child(3) > div > div.text-left > form > div:nth-child(3) > div > div > p",
+    "fullAmountId":"#root > div > div > div > div:nth-child(3) > div > div.text-left > form > div:nth-child(2) > div > div > div > div:nth-child(1)",
+    "rateAmounText":"#root > div > div > div > div:nth-child(3) > div > div.text-left > form > div:nth-child(3) > div > div > div.flex.align-items-center > div > h4"
+  },
+  "defineExtrasPart":{
+    "extraCheckbox":"#root > div > div > div > div.mb-10 > div > div:nth-child(7) > div",
+    "especialClauseId":"#root > div > div > div > div.flex.flex-dir-col.extra-form > div:nth-child(4) > div > div > div:nth-child(2) > button",
+    "especialClausTextarea":"#root > div > div > div > div.flex.flex-dir-col.extra-form > div:nth-child(4) > div > div > div:nth-child(2) > div > div > div > textarea",
+    "nextButton":"#root > div > div > div > div.flex.flex-dir-col.extra-form > div:nth-child(5) > button"
+  },
+  "defineCompilationPart":{
+    "checkbox":"#root > div > div > div > div.mb-10 > div > div:nth-child(9) > div",
+    "contractorCountryId":"#root > div > div > div > div.flex.flex-dir-col.compliance-form > div.box.text-left > div:nth-child(5) > div:nth-child(2) > div > div > div.select__value-container.css-1hwfws3 > div.css-1g6gooi > div > input",
+    "cotractorState":"#root > div > div > div > div.flex.flex-dir-col.compliance-form > div.box.text-left > div.input-container.mt-9 > div > div > div > div.select__value-container.css-1hwfws3 > div.css-1g6gooi > div > input",
+    "nextButton":"#root > div > div > div > div.flex.flex-dir-col.compliance-form > div:nth-child(4) > button"
+  },
+  "contractNameId":"#root > div > div > div > div.mb-10 > div.editable-text > h1"
+}
+  

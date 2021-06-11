@@ -1,0 +1,8 @@
+{
+    "watchForFileChanges": false,
+    "defaultCommandTimeout":1000,
+    "responseTimeout": 10000,
+    "chromeWebSecurity": false,
+    "viewportHeight":1560,
+    "viewportWigth":1200
+}

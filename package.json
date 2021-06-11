@@ -1,0 +1,30 @@
+{
+  "name": "deel-qa-challenge",
+  "version": "1.0.0",
+  "description": "qa deel challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:allure:run": " npx cypress run --config video=false --env allure=true --browser chrome",
+    "clean-results": "rm -rf allure-results/*",
+    "clean-report": "rm -rf allure-report/*",
+    "create-report": "allure generate --clean && allure open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marygtk/deel-qa-challenge.git"
+  },
+  "author": "Maria Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marygtk/deel-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/marygtk/deel-qa-challenge#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.6.0",
+    "cypress": "^7.5.0"
+  },
+  "dependencies": {
+    "allure": "0.0.0"
+  }
+}
